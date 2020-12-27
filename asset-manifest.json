@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Valeria/static/css/main.808ee53e.chunk.css",
+    "main.js": "/Valeria/static/js/main.34b7e955.chunk.js",
+    "main.js.map": "/Valeria/static/js/main.34b7e955.chunk.js.map",
+    "runtime-main.js": "/Valeria/static/js/runtime-main.6aa27ab6.js",
+    "runtime-main.js.map": "/Valeria/static/js/runtime-main.6aa27ab6.js.map",
+    "static/js/2.5745b65f.chunk.js": "/Valeria/static/js/2.5745b65f.chunk.js",
+    "static/js/2.5745b65f.chunk.js.map": "/Valeria/static/js/2.5745b65f.chunk.js.map",
+    "static/js/3.3b71c9bd.chunk.js": "/Valeria/static/js/3.3b71c9bd.chunk.js",
+    "static/js/3.3b71c9bd.chunk.js.map": "/Valeria/static/js/3.3b71c9bd.chunk.js.map",
+    "index.html": "/Valeria/index.html",
+    "static/css/main.808ee53e.chunk.css.map": "/Valeria/static/css/main.808ee53e.chunk.css.map",
+    "static/js/2.5745b65f.chunk.js.LICENSE.txt": "/Valeria/static/js/2.5745b65f.chunk.js.LICENSE.txt",
+    "static/media/foto1.b3395d4f.jpg": "/Valeria/static/media/foto1.b3395d4f.jpg",
+    "static/media/logo22.3e978366.jpg": "/Valeria/static/media/logo22.3e978366.jpg",
+    "static/media/regalos2.97b90b15.png": "/Valeria/static/media/regalos2.97b90b15.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aa27ab6.js",
+    "static/js/2.5745b65f.chunk.js",
+    "static/css/main.808ee53e.chunk.css",
+    "static/js/main.34b7e955.chunk.js"
+  ]
+}
